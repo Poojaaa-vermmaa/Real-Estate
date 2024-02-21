@@ -1,0 +1,27 @@
+.contactheading{
+    margin-top: 10px;
+   text-align: center;
+   color: orange;
+  
+  
+}
+.contactheading h1{
+    font-size: 70px;
+}
+.back {
+    background-image: url("https://cdn.dribbble.com/users/1602563/screenshots/8869646/media/ddc33ce2c8e2570c410123f375e2c35c.gif");
+height:100%;
+width:102%;
+background-size:100% 100%;
+}
+.card{
+    margin-left:20% ;
+}
+.sub button{
+    color:aliceblue;
+    background-color: orange;
+}
+.sub button:hover{
+background-color: aliceblue;
+color:orange;
+}

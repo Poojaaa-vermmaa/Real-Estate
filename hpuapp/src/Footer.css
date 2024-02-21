@@ -1,0 +1,18 @@
+.footer{
+    background-color: black;
+    color:aliceblue;
+}
+
+/* .main{
+    display:flex;
+    justify-content: space-between;
+} */
+.footertop li{
+    color: aliceblue;
+    margin-left: 10px;
+}
+
+.end1{
+    display:flex;
+    justify-content:space-between ;
+}

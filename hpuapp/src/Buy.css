@@ -1,0 +1,10 @@
+.buying{
+    background-color:lightblue;
+    width: 100%;
+    block-size: 30px;
+    animation: mymove 5s infinite;
+  }
+  
+  @keyframes mymove {
+    50% {block-size: 1000px;}
+  }
